@@ -148,3 +148,4 @@ Visit [docs.medusa-commerce.com](https://docs.medusa-commerce.com) for further g
     Docs
   </a>
 </p>
+# medusa-ecommerce-demo
